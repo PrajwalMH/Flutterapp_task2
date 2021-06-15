@@ -25,7 +25,11 @@ Here is the Execution Video:
 
 https://user-images.githubusercontent.com/68767604/122078388-2af36d80-ce1a-11eb-808e-d808c3f4d86f.mp4
 
+Screenshots are uploaded in Screenshots folder for reference.
+
 Here are the Screen shots of the App:
+
+
 1)Home Page:
 
 
