@@ -41,17 +41,25 @@ Here are the Screen shots of the App:
 
    ![p3](https://user-images.githubusercontent.com/68767604/122079286-e4ead980-ce1a-11eb-81c3-809c2daebe4d.png)
 
-4)To fill the Textfield:
+
+4)button named text when pressed changes to flutter:
+
+
+   ![p7](https://user-images.githubusercontent.com/68767604/122082126-59267c80-ce1d-11eb-9beb-3b9fc522345f.png)
+
+
+
+5)To fill the Textfield:
 
 
    ![p4](https://user-images.githubusercontent.com/68767604/122079446-0ba91000-ce1b-11eb-9f87-65a4d98155ec.png)
 
-5)While pressing the submit button pass the value stored to string name to route to next page:
+6)While pressing the submit button pass the value stored to string name to route to next page:
     
    
    ![p5](https://user-images.githubusercontent.com/68767604/122079879-735f5b00-ce1b-11eb-9b04-138f6538c2a5.png)
 
-6)page 2 with text which includes string passed from home page.
+7)page 2 with text which includes string passed from home page.
     
     
    ![p6](https://user-images.githubusercontent.com/68767604/122080648-0e583500-ce1c-11eb-8628-40ff3736798d.png)
